@@ -10,7 +10,7 @@ const Feed = () => {
                 <h1 className="text-5xl  text-neutral-900 font-semibold"><span className="text-sky-700">friends</span>  in seconds.</h1>
             </div>
         <div className="flex flex-col items-center justify-center">
-            <p className="text-gray-500/70 mt-5 w-[700px] text-sm">L'intelligence artificielle est une technologie qui permet aux machines d'apprendre et de prendre des</p>
+            <p className="text-gray-500/70 mt-5 w-[700px] text-sm">Lintelligence artificielle est une technologie qui permet aux machines dapprendre et de prendre des</p>
         </div>
         <div className="flex flex-col items-center justify-center">
             <p className="text-gray-500/70 mt-1  w-[700px] text-sm flex flex-col items-center justify-center">décisions de manière autonome en simulant la pensée humaine.</p>

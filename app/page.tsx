@@ -1,4 +1,3 @@
-import { AccordionDemo } from "@/components/Feed/AccordionDemo";
 import Feed from "@/components/Feed/Feed";
 import SetpsImg from "@/components/Feed/setpsImg";
 import Steps from "@/components/Feed/steps";
